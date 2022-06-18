@@ -1,0 +1,191 @@
+/* BODY */
+
+body{
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* HEADER STYLE */
+.sup-bar{
+    background-color: #222222;
+    color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.span-sup{
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: #F0A83E;
+    padding: 20px;
+}
+
+.logo-nav{
+    height: 30px;
+    margin-top: 10px;
+}
+
+.ul-nav{
+    display: flex;
+    list-style: none;
+}
+
+.item-nav{
+    text-decoration: none;
+    color: #ffffff;
+    margin-right: 10px;
+}
+
+.banner{
+    background-image: url('../img/bowl-and-pet-daities-on-green-background\ 1.png');
+    background-size: cover;
+    height: 500px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.info-banner{
+    margin-right: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1{
+    color: #3C2313;
+    background-color: #ffffff;
+    padding: 10px;
+}
+
+.marron{
+    color: #3C2313;
+}
+
+.comedero{
+    display: inline-block;
+    text-decoration: none;
+    color: #ffffff;
+    padding: 15px;
+    background-color: #F0A83E;
+    margin-top: 15px;
+}
+
+/* MAIN STYLE */
+
+.produc-dest{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.dest{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.grey{
+    color: #666666;
+}
+
+h2{
+    display: inline-block;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.cards{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.contacto{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 70px;
+}
+
+.contacto h3{
+    display: inline-block;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.in-con{
+    border: none;
+    display: inline-block;
+    padding: 20px  200px 20px 40px;
+    background-color: #3C2313;
+    margin: 15px;
+    border-radius: 30px;
+}
+
+.but-contacto{
+    display: inline-block;
+    border: none;
+    padding: 15px 30px;
+    color: #ffffff;
+    margin-right: 5px;
+    border-radius: 30px;
+}
+
+.orange {
+    background-color: #F0A83E;
+}
+
+.grey2{
+    background-color: #666666;
+}
+
+.newsletter{
+    margin-top: 40px;
+    padding: 15px 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.left{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.suscribe-text{
+    color: #ffffff;
+    margin-left: 15px;
+}
+
+.input-suscribe{
+    border: none;
+    padding: 20px 200px 20px 40px;
+    border-radius: 30px;
+}
+
+.button-suscribe{
+    padding: 15px 20px;
+    background-color: #3C2313;
+    color: #ffffff;
+    border-radius: 30px;
+    border: none
+}
